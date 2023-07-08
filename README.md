@@ -105,7 +105,7 @@ python3 bot.py
 git clone https://github.com/kalanakt/All-Url-Uploader
 cd All-Url-Uploader
 pip3 install -U -r requirements.txt
-# Edit Uploader/config.py with variables.
+cp sample_config.py config.py
 python3 bot.py
 </pre>
 </p>
